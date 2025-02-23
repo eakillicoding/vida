@@ -1,0 +1,13 @@
+# Python (Backend)
+vida/venv/
+vida/__pycache__/
+vida/health_data.db
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Node.js (Frontend)
+vida/node_modules/
+vida/.env
+.DS_Store
